@@ -1,0 +1,11 @@
+This folder contains foundational SQL queries focusing on:
+- SELECT statements
+- WHERE filtering
+- AND / OR logical operators
+- IN operators
+- LIKE pattern matching
+- ORDER BY sorting
+- COUNT() function
+- TOP result control
+
+Each query is written based on real-world business questions to simulate practical data analysis scenarios.
